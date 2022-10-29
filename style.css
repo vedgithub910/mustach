@@ -1,0 +1,8 @@
+.heading{width:100%;font-size:25px}
+canvas{animation-name:Vedaant;animation-duration: 4s;animation-iteration-count: infinite;}
+@keyframes Vedaant{
+from{box-shadow: 5px 5px 30px red;}
+to{box-shadow: 5px 5px 30px cyan;}
+
+}
+
